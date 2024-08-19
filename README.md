@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">Repositório para atividades e projetos da FATEC</h3>
+<h1 align="center">Olá 😄, Me chamo Vinícius</h1>
+<h3 align="center">Este é um repositório para atividades e projetos da FATEC</h3>
 
-- 📫 How to reach me **vinicius000168@gmail.com**
+- 📫 Como me encontrar: **vinicius000168@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
